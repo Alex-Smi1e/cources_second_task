@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cources_second_task", "cources_second_task\cources_second_task.csproj", "{6F2C5F87-FE51-4B35-8C8F-D5E64EE4DC32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2C5F87-FE51-4B35-8C8F-D5E64EE4DC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2C5F87-FE51-4B35-8C8F-D5E64EE4DC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2C5F87-FE51-4B35-8C8F-D5E64EE4DC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2C5F87-FE51-4B35-8C8F-D5E64EE4DC32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FFEAEFF-90BF-4295-B5DD-7E2F200AD93C}
+	EndGlobalSection
+EndGlobal
